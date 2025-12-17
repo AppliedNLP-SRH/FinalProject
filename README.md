@@ -1,3 +1,7 @@
+Medium Article : https://medium.com/@youssifhebesha123/words-and-wisdom-7a216b902943 
+
+
+
 Stylometric Analysis of Jane Austen
 
 Course: Applied NLP
